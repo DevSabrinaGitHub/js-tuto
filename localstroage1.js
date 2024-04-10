@@ -1,0 +1,1 @@
+//el localstorage es una porcion de memoria en donde guardamos informacion en nuestro navegador y que esta informacion persista y este disponible durante la navegacion entre las diferentes paginas de nuestra pag web
